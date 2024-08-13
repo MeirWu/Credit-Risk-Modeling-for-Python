@@ -1,2 +1,2 @@
 # Credit-Risk-Modeling-for-Python
-This project is to learn how the bank to predict PD, LGD, and EAD model
+This project coming from Udemy is to learn how the bank to predict PD, LGD, and EAD model
